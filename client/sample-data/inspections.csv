@@ -1,0 +1,3 @@
+object_id;defect_type;measured_value;allowed_value;scale_score;safety_score
+1;Відхилення від вертикалі;70.0;40.0;45;65
+2;Вологість стіни;18.5;20.0;20;35
